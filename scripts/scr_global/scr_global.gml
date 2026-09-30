@@ -20,5 +20,3 @@ global.vencedor = noone;
 
 
 // Configuração da tela
-
-window_set_size(640 * 1.5, 360 * 1.5)
